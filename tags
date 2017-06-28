@@ -1,0 +1,20 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+CLASSPATH	Makefile	/^CLASSPATH= CLASSPATH$/;"	m
+Div	src/com/calculator/Div.java	/^  public double Div(String args[]){$/;"	m	class:Div
+Div	src/com/calculator/Div.java	/^public class Div{$/;"	c
+JC	Makefile	/^JC=javac$/;"	m
+JFLAGS	Makefile	/^JFLAGS= -d .\/bin\/$/;"	m
+Main	src/com/calculator/Main.java	/^public class Main$/;"	c
+Mul	src/com/calculator/Mul.java	/^  public double Mul(String args[]){$/;"	m	class:Mul
+Mul	src/com/calculator/Mul.java	/^public class Mul{$/;"	c
+Sub	src/com/calculator/Sub.java	/^  public double Sub(String args[]){$/;"	m	class:Sub
+Sub	src/com/calculator/Sub.java	/^public class Sub{$/;"	c
+Sum	src/com/calculator/Sum.java	/^  public double Sum(String args[]){$/;"	m	class:Sum
+Sum	src/com/calculator/Sum.java	/^public class Sum{$/;"	c
+main	src/com/calculator/Main.java	/^	public static void main(String[] args) {$/;"	m	class:Main
+res	src/com/calculator/Main.java	/^	static double res = 0.0;$/;"	f	class:Main
